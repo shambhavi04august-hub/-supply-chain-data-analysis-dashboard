@@ -19,7 +19,7 @@ This project analyzes logistics and supply chain data using Excel to identify pe
 - Data Analysis  
 
 ## 🖼 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](powerbi-dashboard.png)
 
 ## 📂 Project File
 🔽 [Download Excel File](logistics-analysis.xlsx)
