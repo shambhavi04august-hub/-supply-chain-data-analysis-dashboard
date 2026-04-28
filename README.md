@@ -32,6 +32,9 @@ This project analyzes logistics and supply chain data using Excel to identify pe
 ## 👩‍💻 Author
 
 Shambhavi Tripathi
+
 https://www.linkedin.com/in/shambhavi-tripathi-94bb9937a
+
 https://github.com/shambhavi04august-hub
+
 Logistics Professional 🚚 | Tech Enthusiast 💻 | Data-Driven 📊
